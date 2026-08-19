@@ -1,6 +1,6 @@
 {
-	"name": "@earendil-works/pi-ai",
-	"version": "0.87.1",
+	"name": "@miztaka/pi-ai",
+	"version": "0.87.1-node20.1",
 	"description": "Unified LLM API with automatic model discovery and provider configuration",
 	"type": "module",
 	"main": "./dist/index.js",
@@ -93,7 +93,7 @@
 		"directory": "packages/ai"
 	},
 	"engines": {
-		"node": ">=22.19.0"
+		"node": ">=20.0.0"
 	},
 	"devDependencies": {
 		"@types/node": "22.19.19",
